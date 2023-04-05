@@ -9,6 +9,7 @@ defs:
   BR: ['br.yaml']
   BG: ['bg.yaml']
   CA: ['ca.yaml', 'northamericainformal.yaml']
+  CITATIONOPS: [citation_ops.yaml],
   CH: ['ch.yaml']
   CL: ['cl.yaml']
   CO: ['co.yaml']
